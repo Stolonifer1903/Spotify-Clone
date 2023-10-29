@@ -68,4 +68,4 @@ app.get("/lyrics", async (req, res) => {
   res.json({ lyrics });
 });
 
-app.listen(3000);
+app.listen(5174);
